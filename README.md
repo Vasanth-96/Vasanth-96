@@ -5,6 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Vasanth-96?label=Follow&style=social)](https://github.com/Vasanth-96)
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in various technologies and tools. Here's a glimpse of my tech stack and how to reach me.
+## 💼 Experience
+
+### Software Development Engineer at Synaptic (Jan 2024 - Present)
 
 ## 🔧 Technologies & Tools
 
