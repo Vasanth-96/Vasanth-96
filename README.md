@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in various technologies and tools. Here's a glimpse of my tech stack and how to reach me.
 ## 💼 Experience
 
-### ![Synaptic](https://avatars.githubusercontent.com/u/19910740?s=64&v=4) Software Development Engineer at Synaptic (Jan 2024 - Present)
+### ![Synaptic](https://avatars.githubusercontent.com/u/19910740?s=32&v=1) Software Development Engineer at Synaptic (Jan 2024 - Present)
 
 ## 🔧 Technologies & Tools
 
