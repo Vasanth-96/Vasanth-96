@@ -1,7 +1,7 @@
 # Hi there, I'm Vasanth Naik 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vasanth-96&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/vasanth-naik-1bb269206/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vasanth-naik-1bb269206/)
 [![GitHub followers](https://img.shields.io/github/followers/Vasanth-96?label=Follow&style=social)](https://github.com/Vasanth-96)
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in various technologies and tools. Here's a glimpse of my tech stack and how to reach me.
